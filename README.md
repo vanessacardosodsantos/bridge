@@ -1,0 +1,2 @@
+# bridge
+asbstração e implementação
